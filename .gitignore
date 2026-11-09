@@ -1,0 +1,22 @@
+# build output
+build/
+cmake-build-*/
+compile_commands.json
+*.o
+*.a
+*.so
+*.exe
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# benchmark scratch (measured results and run logs in results/ ARE committed)
+results/*.bak.*
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
