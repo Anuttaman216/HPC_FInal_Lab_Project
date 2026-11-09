@@ -1,0 +1,1 @@
+RESULT mode=mpi comm=halo grid=16x16x16 rows=4096 nnz=27136 procs=4 threads=1 iters=41 status=converged relres=6.117e-09 true_relres=6.117e-09 max_err=5.402e-09 t_median=0.001710s comm_frac=0.541 GFLOPS=2.328 mem=0.5MiB

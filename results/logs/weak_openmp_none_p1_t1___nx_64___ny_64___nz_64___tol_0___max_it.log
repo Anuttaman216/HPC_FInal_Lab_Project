@@ -1,0 +1,1 @@
+RESULT mode=openmp comm=none grid=64x64x64 rows=262144 nnz=1810432 procs=1 threads=1 iters=100 status=max_iterations relres=2.318e-04 true_relres=2.318e-04 max_err=6.482e-04 t_median=0.327066s comm_frac=0.000 GFLOPS=1.924 mem=32.7MiB

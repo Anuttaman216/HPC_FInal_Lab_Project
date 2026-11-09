@@ -1,0 +1,1 @@
+RESULT mode=openmp comm=none grid=160x160x160 rows=4096000 nnz=28518400 procs=1 threads=8 iters=368 status=converged relres=9.468e-09 true_relres=9.468e-09 max_err=9.338e-08 t_median=10.246838s comm_frac=0.000 GFLOPS=3.527 mem=513.9MiB

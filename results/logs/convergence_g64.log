@@ -1,0 +1,1 @@
+RESULT mode=sequential comm=none grid=64x64x64 rows=262144 nnz=1810432 procs=1 threads=1 iters=158 status=converged relres=9.032e-09 true_relres=9.032e-09 max_err=2.958e-08 t_median=0.419628s comm_frac=0.000 GFLOPS=2.362 mem=32.7MiB
