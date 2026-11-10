@@ -19,6 +19,7 @@ turn the measurements into tables, graphs and a dashboard.
 
 | If you want to… | Read |
 |---|---|
+| **run the live demo and prepare for the viva** | [docs/DEMO_AND_VIVA_GUIDE.md](docs/DEMO_AND_VIVA_GUIDE.md) |
 | build, test and run everything step by step (with expected output) | [docs/WALKTHROUGH.md](docs/WALKTHROUGH.md) |
 | look up a term (CSR, SpMV, halo, roofline, efficiency…) | [docs/GLOSSARY.md](docs/GLOSSARY.md) |
 | understand *why* the code is designed this way | [docs/DESIGN_DECISIONS.md](docs/DESIGN_DECISIONS.md) |
