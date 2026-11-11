@@ -300,14 +300,15 @@ Graphs (`results/graphs/`): `01_time_vs_threads`, `02_time_vs_mpi_procs`,
 
 Details: [report/project_report.md](report/project_report.md) · [methodology](report/methodology.md) · [literature review](report/literature_review.md) · [presentation outline](report/presentation_outline.md)
 
-## Team members and contributions
+## Team
 
-| Member | Roll no. | Contribution |
-|---|---|---|
-| _Name 1_ | _…_ | _e.g. matrix generator, sequential CG, tests_ |
-| _Name 2_ | _…_ | _e.g. OpenMP implementation, benchmarking_ |
-| _Name 3_ | _…_ | _e.g. MPI / hybrid implementation_ |
-| _Name 4_ | _…_ | _e.g. analysis, report, presentation_ |
+**Shiv Nadar University Chennai** · B.Tech CSE (Cyber Security) · Batch 2024–2028
+
+| Member |
+|---|
+| Anuttaman R |
+| Dhanush Kathir B |
+| Anish Balaji A |
 
 ## References
 

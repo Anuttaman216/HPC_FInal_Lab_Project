@@ -12,7 +12,8 @@ All numbers on these slides are measured values from `results/benchmark.csv`
 * P08 – High-Performance Conjugate-Gradient Benchmark: A New Metric for
   Ranking HPC Systems
 * Subtitle: Performance evaluation of shared- and distributed-memory CG
-* Team: _Name 1, Name 2, Name 3, Name 4_ · Guide: _…_ · Department / College / 2026
+* Team: Anuttaman R, Dhanush Kathir B, Anish Balaji A
+* B.Tech CSE (Cyber Security), Batch 2024–2028 · Shiv Nadar University Chennai
 * Footnote: HPCG-inspired educational implementation, not official HPCG
 
 **Speaker notes.** Introduce the team. Say at the outset that we rebuilt the
